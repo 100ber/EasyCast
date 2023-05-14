@@ -1,0 +1,105 @@
+
+/* N A V B A R    C O M P O N E N T   */
+
+.navbar{
+  padding-top: 5vh;
+  padding-left: 3vw;
+  display: flex;
+  flex-direction: column;
+  height: 50vh;
+}
+
+.navbar-list{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 30vh;
+  list-style-type: none;
+  padding: 2vh;
+}
+
+.navbar-list-opt{
+   color: black;
+}
+
+
+/* H E A D E R    C O M P O N E N T  */
+
+/* HEADER */
+
+.header {
+  display: flex;
+  padding: 20px;
+  height: 8vh;
+  justify-content:flex-start;
+}
+
+.header-navicon{
+  text-align: center;
+  padding-top: 3vh;
+  padding-left: 2vw;
+  justify-items: center;
+}
+
+.header-title{
+  padding-bottom: 1vh;
+  padding-left:1vw;
+  color:black;
+}
+#header-img{
+  margin-left:8vw ;
+}
+/* H O M E    C O M P O N E N T */
+
+.home{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 15vh;
+  padding-right: 5vw;
+}
+
+/* FORM */
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+
+.electiondiv{
+  margin:10px 100px; 
+  border: 3px solid grey;
+  border-radius: 10px;
+}
+
+.ebtn{
+   margin-top:8vh;
+}
+#aadhaar{
+  padding-left: 10px;
+}
+
+.pi{
+  height: 150px;
+  width:180px;
+}
+
+.rr{
+  background-color: red;
+}
+
+.r2{
+  width: 100%;
+  height: 100%;
+  border: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* .electionbtn{
+  position: relative;
+  top:-70px;
+  left
+} */

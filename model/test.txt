@@ -1,0 +1,140 @@
+[
+   
+   {
+    "name":"Jalgaon City",
+    "district":"Jalgaon",
+    "state":"Maharashtra"
+   },
+   
+   {
+    "name":"Amravati",
+    "district":"Amravati",
+    "state":"Maharashtra"
+   },
+   
+   {
+    "name":"Nagpur Central",
+    "district":"Nandurbar",
+    "state":"Maharashtra"
+   },
+   
+   {
+    "name":"Athani",
+    "district":"Belagavi",
+    "state":"Karnataka"
+   },
+   
+   {
+    "name":"Bagalkot",
+    "district":"Bagalkot",
+    "state":"Karnataka"
+   },
+   
+   {
+    "name":"Bijapur City",
+    "district":"Vijayapura",
+    "state":"Karnataka"
+   },
+   
+   {
+    "name":"Koppal",
+    "district":"Koppal",
+    "state":"Karnataka"
+   },
+   
+   {
+    "name":"Haveri",
+    "district":"Haveri",
+    "state":"Karnataka"
+   },
+   
+   {
+    "name":"Baikunthpur",
+    "district":"Koriya",
+    "state":"Chhattisgarh"
+   },
+   
+   {
+    "name":"Ambikapur",
+    "district":"Surguja",
+    "state":"Chhattisgarh"
+   },
+   
+   {
+    "name":"Raigarh",
+    "district":"Raigarh",
+    "state":"Chhattisgarh"
+   },
+   
+   {
+    "name":"Korba",
+    "district":"Korba",
+    "state":"Chhattisgarh"
+   },
+   
+   {
+    "name":"Raipur City North",
+    "district":"Raipur",
+    "state":"Chhattisgarh"
+   },
+   
+   {
+    "name":"Chamba",
+    "district":"Chamba",
+    "state":"Himachal Pradesh"
+   },
+   
+   {
+    "name":"Kullu",
+    "district":"Kullu",
+    "state":"Himachal Pradesh"
+   },
+   
+   {
+    "name":"Hamirpur",
+    "district":"Hamirpur",
+    "state":"Himachal Pradesh"
+   },
+   
+   {
+    "name":"Shimla",
+    "district":"Shimla",
+    "state":"Himachal Pradesh"
+   },
+   
+   {
+    "name":"Kinnaur",
+    "district":"Kinnaur",
+    "state":"Himachal Pradesh"
+   },
+   
+   {
+    "name":"Sheohar",
+    "district":"Sheohar",
+    "state":"Bihar"
+   },
+   
+   {
+    "name":"Supaul",
+    "district":"Supaul",
+    "state":"Bihar"
+   },
+   
+   {
+    "name":"Arwal",
+    "district":"Arwal",
+    "state":"Bihar"
+   },
+   
+   {
+    "name":"Buxar",
+    "district":"Buxar",
+    "state":"Bihar"
+   },
+   
+   {
+    "name":"Patna Sahib",
+    "district":"Patna",
+    "state":"Bihar"
+   },
+]

@@ -1,0 +1,598 @@
+
+[
+{
+ "Name":"Abhishek Singh",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"INC",
+ "constituency":"Nandurbar",
+ "district":"Nandurbar",
+ "state":"Maharashtra"
+ },
+{
+ "Name":"Anukul Roy",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"Nandurbar",
+ "district":"Nandurbar",
+ "state":"Maharashtra"
+ },
+{
+ "Name":"Amjit Kaur",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"BJP",
+ "constituency":"Sindkheda",
+ "district":"Dhule",
+ "state":"Maharashtra"
+ },
+ {
+ "Name":"Amrender SIngh",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"INC",
+ "constituency":"Sindkheda",
+ "district":"Duhle",
+ "state":"Maharashtra"
+ },
+ {
+ "Name":"Charanjeet Channi",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"Sindkheda",
+ "district":"Duhle",
+ "state":"Maharashtra"
+ },
+ {
+ "Name":"Akhilesh Yadav",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"BJP",
+ "constituency":"Jalgaon City",
+ "district":"Jalgaon",
+ "state":"Maharashtra"
+ },
+{
+ "Name":"Dimple Yadav",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"INC",
+ "constituency":"Jalgaon City",
+ "district":"Jalgaon",
+ "state":"Maharashtra"
+ },
+{
+ "Name":"Prakash Yadav",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"Jalgaon City",
+ "district":"Jalgaon",
+ "state":"Maharashtra"
+ },
+{
+ "Name":"Rameshwar Sharma",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"BJP",
+ "constituency":"Amrawati",
+ "district":"Amrawati",
+ "state":"Maharashtra"
+ },
+{
+ "Name":"Ramesh Sharma",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"INC",
+ "constituency":"Amrawati",
+ "district":"Amrawati",
+ "state":"Maharashtra"
+ },
+{
+ "Name":"Sanjeev Jha",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"Amrawati",
+ "district":"Amrawati",
+ "state":"Maharashtra"
+ },
+{
+ "Name":"Rameshwar Sharma",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"BJP",
+ "constituency":"Nagpur Central",
+ "district":"Nagpuri",
+ "state":"Maharashtra"
+ },
+{
+ "Name":"Gahar Patel",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"INC",
+ "constituency":"Nagpur Central",
+ "district":"Nagpuri",
+ "state":"Maharashtra"
+ },
+{
+ "Name":"Dinesh Ojha",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"Nagpur Central",
+ "district":"Nagpuri",
+ "state":"Maharashtra"
+ },
+{
+ "Name":"Farukh Sekh",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"BJP",
+ "constituency":"Athani",
+ "district":"Belagavi",
+ "state":"Karnataka"
+ },
+{
+ "Name":"Shad Sultan",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"INC",
+ "constituency":"Athani",
+ "district":"Belagavi",
+ "state":"Karnataka"
+ },
+{
+ "Name":"Nawaz Khan",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"Athani",
+ "district":"Belagavi",
+ "state":"Karnataka"
+ },
+{
+ "Name":"Ajit Pawar",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"BJP",
+ "constituency":"Bagalkot",
+ "district":"Bagalkot",
+ "state":"Karnataka"
+ },
+{
+ "Name":"Vijay Parmar",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"INC",
+ "constituency":"Bagalkot",
+ "district":"Bagalkot",
+ "state":"Karnataka"
+ },
+{
+ "Name":"Pinku Patel",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"Bagalkot",
+ "district":"Bagalkot",
+ "state":"Karnataka"
+ },
+{
+ "Name":"Bipin Jaiswal",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"BJP",
+ "constituency":"BIjapur",
+ "district":"Vijayapura",
+ "state":"Karnataka"
+ },
+{
+ "Name":"Pranay Patell",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"INC",
+ "constituency":"BIjapur",
+ "district":"Vijayapura",
+ "state":"Karnataka"
+ },
+{
+ "Name":"Krishna Kumar",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"BIjapur",
+ "district":"Vijayapura",
+ "state":"Karnataka"
+ },
+{
+ "Name":"Harsh Sharma",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"BJP",
+ "constituency":"Koppal",
+ "district":"Koppal",
+ "state":"Karnataka"
+ },
+{
+ "Name":"Aditya Singh",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"INC",
+ "constituency":"Koppal",
+ "district":"Koppal",
+ "state":"Karnataka"
+ },
+{
+ "Name":"Gambhir Khan",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"Koppal",
+ "district":"Koppal",
+ "state":"Karnataka"
+ },
+{
+ "Name":"Naveen Mittal",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"BJP",
+ "constituency":"Haveri",
+ "district":"Haveri",
+ "state":"Karnataka"
+ },
+{
+ "Name":"Manas Sharma",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"INC",
+ "constituency":"Haveri",
+ "district":"Haveri",
+ "state":"Karnataka"
+ },
+{
+ "Name":"Dikshant Khare",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustration-
+default-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"Haveri",
+ "district":"Haveri",
+ "state":"Karnataka"
+ },
+{
+ "Name":"Vinay Jaiswal",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"BJP",
+ "constituency":"Baikunthpur",
+ "district":"Koriya",
+ "state":"Chhattisgarh"
+ },
+{
+ "Name":"Rakesh Sharma",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"INC",
+ "constituency":"Baikunthpur",
+ "district":"Koriya",
+ "state":"Chhattisgarh"
+ },
+{
+ "Name":"Sanjay Jaiswal",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"Baikunthpur",
+ "district":"Koriya",
+ "state":"Chhattisgarh"
+ },
+{
+ "Name":"Ranjeet Bansal",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"BJP",
+ "constituency":"Ambikapur",
+ "district":"Surguja",
+ "state":"Chhattisgarh"
+ },
+{
+ "Name":"Sonu Tiwari",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"INC",
+ "constituency":"Ambikapur",
+ "district":"Surguja",
+ "state":"Chhattisgarh"
+ },
+{
+ "Name":"Arjit Jogi",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"Ambikapur",
+ "district":"Surguja",
+ "state":"Chhattisgarh"
+ },
+{
+ "Name":"Ramesh Bansal",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"BJP",
+ "constituency":"Raigarh",
+ "district":"Raigarh",
+ "state":"Chhattisgarh"
+ },
+{
+ "Name":"Gurmeet Pratap",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"INC",
+ "constituency":"Raigarh",
+ "district":"Raigarh",
+ "state":"Chhattisgarh"
+ },
+{
+ "Name":"Aditya Verma",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"Raigarh",
+ "district":"Raigarh",
+ "state":"Chhattisgarh"
+ },
+{
+ "Name":"Diljit Parmesh",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"BJP",
+ "constituency":"Korba",
+ "district":"Korba",
+ "state":"Chhattisgarh"
+ },
+{
+ "Name":"Sunil Shrivastava",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"INC",
+ "constituency":"Korba",
+ "district":"Korba",
+ "state":"Chhattisgarh"
+ },
+{
+ "Name":"Subham Singh",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"Korba",
+ "district":"Korba",
+ "state":"Chhattisgarh"
+ },
+{
+ "Name":"Ankit Pawar",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"BJP",
+ "constituency":"Raipur",
+ "district":"Raipur",
+ "state":"Chhattisgarh"
+ },
+{
+ "Name":"Aman Jain",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"INC",
+ "constituency":"Raipur",
+ "district":"Raipur",
+ "state":"Chhattisgarh"
+ },
+{
+ "Name":"Balgurujot Singh",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"Raipur",
+ "district":"Raipur",
+ "state":"Chhattisgarh"
+ },
+{
+ "Name":"Atul Tiwari",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"BJP",
+ "constituency":"Chamba",
+ "district":"Chamba",
+ "state":"Himachal Pradesh"
+ },
+{
+ "Name":"Kamlesh SIngh",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"INC",
+ "constituency":"Chamba",
+ "district":"Chamba",
+ "state":"Himachal Pradesh"
+ },
+{
+ "Name":"Monish Judiyal",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"Chamba",
+ "district":"Chamba",
+ "state":"Himachal Pradesh"
+ },
+{
+ "Name":"Bhupesh Patel",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"BJP",
+ "constituency":"Kullu",
+ "district":"Kullu",
+ "state":"Himachal Pradesh"
+ },
+{
+ "Name":"Shivraj Singh",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"INC",
+ "constituency":"Kullu",
+ "district":"Kullu",
+ "state":"Himachal Pradesh"
+ },
+{
+ "Name":"Sachin Pilot",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"Kullu",
+ "district":"Kullu",
+ "state":"Himachal Pradesh"
+ },
+{
+ "Name":"Pratham Luker",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustration-
+default-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"Kinnaur",
+ "district":"Kinnaur",
+ "state":"Himachal Pradesh"
+},
+{
+ "Name":"Soumya Kumar",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"BJP",
+ "constituency":"Kinnaur",
+ "district":"Kinnaur",
+ "state":"Himachal Pradesh"
+},
+{
+ "Name":"Vikhyat Jalota",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"INC",
+ "constituency":"Kinnaur",
+ "district":"Kinnaur",
+ "state":"Himachal Pradesh"
+},
+{
+ "Name":"Vartika Rastogi",
+ "Image":"https://cdn.vectorstock.com/i/preview-1x/13/70/person-grayphoto-placeholder-woman-vector-23511370.jpg",
+ "Party":"AAP",
+ "constituency":"Shimla",
+ "district":"Shimla",
+ "state":"Himachal Pradesh"
+},
+{
+ "Name":"Vrushank Nandeshwar",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-grey-
+photo-blank-template-mockup-144847501.jpg",
+ "Party":"BJP",
+ "constituency":"Shimla",
+ "district":"Shimla",
+ "state":"Himachal Pradesh"
+},
+{
+ "Name":"Madhav Mehta",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"INC",
+ "constituency":"Shimla",
+ "district":"Shimla",
+ "state":"Himachal Pradesh"
+},
+{
+ "Name":"Shaswat Tiwari",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"Hamirpur",
+ "district":"Hamirpur",
+ "state":"Himachal Pradesh"
+},
+{
+ "Name":"Arnav Pant",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"BJP",
+ "constituency":"Hamirpur",
+ "district":"Hamirpur",
+ "state":"Himachal Pradesh"
+},
+{
+ "Name":"Bhavna Tyagi",
+ "Image":"https://cdn.vectorstock.com/i/preview-1x/13/70/person-grayphoto-placeholder-woman-vector-23511370.jpg",
+ "Party":"INC",
+ "constituency":"Hamirpur",
+ "district":"Hamirpur",
+ "state":"Himachal Pradesh"
+},
+{
+ "Name":"Kritya Kumar",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"Sheohar",
+ "district":"Sheohar",
+ "state":"Bihar"
+},
+{
+ "Name":"Sunil Kohli",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"BJP",
+ "constituency":"Sheohar",
+ "district":"Sheohar",
+ "state":"Bihar"
+},
+{
+ "Name":"Dipali Singh",
+ "Image":"https://cdn.vectorstock.com/i/preview-1x/13/70/person-grayphoto-placeholder-woman-vector-23511370.jpg",
+ "Party":"INC",
+ "constituency":"Sheohar",
+ "district":"Sheohar",
+ "state":"Bihar"
+},
+{
+ "Name":"Umesh Yadav",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"Supaul",
+ "district":"Supaul",
+ "state":"Bihar"
+},
+{
+ "Name":"Karan Manohar",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"BJP",
+ "constituency":"Supaul",
+ "district":"Supaul",
+ "state":"Bihar"
+},
+{
+ "Name":"Manoj Arora",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"INC",
+ "constituency":"Supaul",
+ "district":"Supaul",
+ "state":"Bihar"
+},
+{
+ "Name":"Ramesh Pal",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"Arwal",
+ "district":"Arwal",
+ "state":"Bihar"
+},
+{
+ "Name":"Zoya Akhtar",
+ "Image":"https://cdn.vectorstock.com/i/preview-1x/13/70/person-grayphoto-placeholder-woman-vector-23511370.jpg",
+ "Party":"BJP",
+ "constituency":"Arwal",
+ "district":"Arwal",
+ "state":"Bihar"
+},
+{
+ "Name":"Bablu Kumar Singh",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"INC",
+ "constituency":"Arwal",
+ "district":"Arwal",
+ "state":"Bihar"
+},
+{
+ "Name":"Rakesh Ahuja",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"Buxar",
+ "district":"Buxar",
+ "state":"Bihar"
+},
+{
+ "Name":"Somnath Singh",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"BJP",
+ "constituency":"Buxar",
+ "district":"Buxar",
+ "state":"Bihar"
+},
+{
+ "Name":"Priyanshu Singh",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"INC",
+ "constituency":"Buxar",
+ "district":"Buxar",
+ "state":"Bihar"
+},
+{
+ "Name":"Kamal Chauhan",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"AAP",
+ "constituency":"Patna Sahib",
+ "district":"Patna",
+ "state":"Bihar"
+},
+{
+ "Name":"Anupama Kumari",
+ "Image":"https://cdn.vectorstock.com/i/preview-1x/13/70/person-grayphoto-placeholder-woman-vector-23511370.jpg",
+ "Party":"BJP",
+ "constituency":"Patna Sahib",
+ "district":"Patna",
+ "state":"Bihar"
+},
+{
+ "Name":"Suraj Verma",
+ "Image":"https://thumbs.dreamstime.com/b/creative-illustrationdefault-avatar-profile-placeholder-isolated-background-art-design-greyphoto-blank-template-mockup-144847501.jpg",
+ "Party":"INC",
+ "constituency":"Patna Sahib",
+ "district":"Patna",
+ "state":"Bihar"
+},
+]
